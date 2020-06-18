@@ -1,3 +1,7 @@
+## Inventory (proof of concept)
+
+A game inventory I've been working on lately. It is a part from the game we're working on with my friend. Inventory uses HTML5 Drag & Drop API, for now it's only manipulating DOM but I try to implement Redux after I get time to do that. Also nice playground to try some CSS-stuff
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
